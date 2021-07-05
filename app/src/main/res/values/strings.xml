@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">2_Catatan_Keuangan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_dua">fragment dua</string>
+    <string name="fragment_satu">fragment satu</string>
+    <string name="todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="rp_15_000">Rp. 15.000</string>
+    <string name="rp_20_000">Rp. 20.000</string>
+    <string-array name="list_record">
+        <item>Income</item>
+        <item>Outcome</item>
+        <item>Outcome</item>
+        <item>Income</item>
+        <item>Income</item>
+        <item>Income</item>
+        <item>Outcome</item>
+        <item>Outcome</item>
+        <item>Income</item>
+        <item>Outcome</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+        <item>There are some description in here</item>
+    </string-array>
+
+    <string-array name="kategori">
+        <item>Pilih Kategori</item>
+        <item>Makanan dan Minuman</item>
+        <item>Rumah dan Uilitas</item>
+        <item>Kecantikan dan Kesehatan</item>
+        <item>Hadiah</item>
+        <item>Pakaian</item>
+        <item>Cicilan</item>
+        <item>Bahan Makanan</item>
+        <item>Transportasi</item>
+        <item>Tabungan</item>
+    </string-array>
+</resources>
